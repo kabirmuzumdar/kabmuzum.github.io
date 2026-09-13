@@ -1,0 +1,2 @@
+Add your image files here. Then set their paths in assets/js/content.js.
+See START-HERE.html in the main folder for a copy-and-paste example.
